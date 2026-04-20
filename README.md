@@ -6,7 +6,7 @@ Math first. AI next. Analyst by trade.
 
 | Period            | Company              | Role                                 |
 | ----------------- | -------------------- | ------------------------------------ |
-| 2025.07 – 2026.01 | Société Générale CIB | Data Analyst — Client Referential DQ |
+| 2025.07 – 2026.01 | Société Générale CIB | Data Analyst Python & BI             |
 | 2020.09 – 2021.09 | BNP Paribas AM       | Investment Specialist                |
 
 ## Projects
