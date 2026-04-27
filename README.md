@@ -23,7 +23,14 @@ Math first. AI next. Analyst by trade.
   - Timeline drill-down + personalized ranking
   - Tech: Python · Mistral AI · HTML · deployed on Vercel
 
-- [**taux-de-change**](https://github.com/catinblue/taux-de-change) — FX Weather
-  - Exchange rate app with weather metaphors
-  - Quiz engine + learning tools
-  - Tech: HTML · Vanilla JavaScript · CSS
+- [**fx-weather**](https://taux-de-change.vercel.app/) — Pay-abroad playbook PWA
+  - Custom RPN calculator (4-op BODMAS · zero `eval()`)
+  - Tax-Free Radar with country-aware VAT rules + Lumina Flip toggle
+  - Mistral-powered Smart Discovery (compound 3-price search) + zero-click Geo-IP Live Intel
+  - Trilingual EN/ZH/FR · Tech: Vanilla JS PWA · Vercel Functions · Mistral · deployed on Vercel
+
+- [**write-down**](https://github.com/catinblue/write-down) — Atmospheric writing app where typing drives the weather
+  - WebGL2 ambient backgrounds (rain · snow · star · hearth) modulated by keystroke rhythm
+  - Two output paths: Save (md / txt / docx) vs Release (burn / vapor / melt / ember ritual)
+  - Zen Timer + typewriter scroll + paragraph dimming for focused flow
+  - Tech: React 19 · Vite · TypeScript · WebGL2 · 100% client-side
